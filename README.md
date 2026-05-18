@@ -4,3 +4,4 @@
 4. Insertioncode (python code)
 5. Merge sort
 6. Quicksort
+7. selection sort
