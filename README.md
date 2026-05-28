@@ -5,3 +5,4 @@
 5. Merge sort
 6. Quicksort
 7. selection sort
+8. prime number finder
