@@ -6,3 +6,4 @@
 6. Quicksort
 7. selection sort
 8. prime number finder
+9. finding largest number
