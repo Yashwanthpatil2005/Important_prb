@@ -7,3 +7,5 @@
 7. selection sort
 8. prime number finder
 9. finding largest number
+10. reversing a string
+11. binary search
