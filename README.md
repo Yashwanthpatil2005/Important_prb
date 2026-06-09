@@ -9,3 +9,6 @@
 9. finding largest number
 10. reversing a string
 11. binary search
+12. factorial
+13. twosum
+14. 
