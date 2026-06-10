@@ -11,4 +11,6 @@
 11. binary search
 12. factorial
 13. twosum
-14. 
+14. Move all zeros to the end
+15. Stock Buy & Sell
+16. 
