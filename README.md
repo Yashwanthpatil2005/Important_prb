@@ -13,4 +13,5 @@
 13. twosum
 14. Move all zeros to the end
 15. Stock Buy & Sell
-16. 
+16. palindrome
+17. 
