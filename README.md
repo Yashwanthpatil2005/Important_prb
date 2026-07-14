@@ -15,4 +15,4 @@
 15. Stock Buy & Sell
 16. palindrome
 17. Blanced Paranthesis
-18. 
+18. Revetse Linkedlist
