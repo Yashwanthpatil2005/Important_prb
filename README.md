@@ -16,3 +16,5 @@
 16. palindrome
 17. Blanced Paranthesis
 18. Revetse Linkedlist
+19. frequency of an element
+20. count even and odd
