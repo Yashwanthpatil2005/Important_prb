@@ -19,4 +19,4 @@
 19. frequency of an element
 20. count even and odd
 21. Find Union of Two Array
-22. 
+22. Left Rotate Array by K Positions
