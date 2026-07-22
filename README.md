@@ -20,3 +20,5 @@
 20. count even and odd
 21. Find Union of Two Array
 22. Left Rotate Array by K Positions
+23. Trapping Rain Water
+24. Sliding Window Maximum
