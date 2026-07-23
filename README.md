@@ -22,3 +22,5 @@
 22. Left Rotate Array by K Positions
 23. Trapping Rain Water
 24. Sliding Window Maximum
+25. Count occurrences of a given number
+26. Move all zeros to the end
