@@ -1,7 +1,8 @@
 # Count Occurrences of a Given Number
 
-arr = [1, 2, 3, 2, 4, 2, 5]
-target = 2
+arr = list(map(int, input("Enter array elements: ").split()))
+
+target = int(input("Enter the number to count: "))
 
 count = 0
 
