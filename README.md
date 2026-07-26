@@ -24,3 +24,5 @@
 24. Sliding Window Maximum
 25. Count occurrences of a given number
 26. Move all zeros to the end
+27. suffix sum
+28. kadane's algorithm
