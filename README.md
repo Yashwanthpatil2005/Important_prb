@@ -27,3 +27,5 @@
 27. suffix sum
 28. kadane's algorithm
 29. second largest number
+30. second smallest number
+31. check the if sorted or not
