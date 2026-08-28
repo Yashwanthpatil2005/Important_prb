@@ -26,3 +26,4 @@
 26. Move all zeros to the end
 27. suffix sum
 28. kadane's algorithm
+29. second largest number
