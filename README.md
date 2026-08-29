@@ -29,3 +29,6 @@
 29. second largest number
 30. second smallest number
 31. check the if sorted or not
+32. remove duplicate
+33. find the duplicate
+34. intersection of array
