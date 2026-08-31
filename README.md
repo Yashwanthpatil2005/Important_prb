@@ -32,3 +32,6 @@
 32. remove duplicate
 33. find the duplicate
 34. intersection of array
+35. majority_element.py
+36. maximum_product_subarray.py
+37. leaders_array.py
