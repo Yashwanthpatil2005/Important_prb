@@ -35,3 +35,6 @@
 35. majority_element.py
 36. maximum_product_subarray.py
 37. leaders_array.py
+38. missing_repeating_number.py
+39. subarray_sum_k.py
+40. longest_consecutive_sequence.py
