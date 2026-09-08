@@ -38,3 +38,7 @@
 38. missing_repeating_number.py
 39. subarray_sum_k.py
 40. longest_consecutive_sequence.py
+41. four_sum.py
+42. next_permutation.py
+43. container_most_water.py
+44. 
